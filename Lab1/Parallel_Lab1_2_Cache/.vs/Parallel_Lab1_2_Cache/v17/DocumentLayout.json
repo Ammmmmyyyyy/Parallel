@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amy\\source\\repos\\Parallel_Lab1_2_Cache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E03C5049-AD58-4C77-95A2-C3DD9FD0E1CA}|Parallel_Lab1_2_Cache\\Parallel_Lab1_2_Cache.vcxproj|C:\\Users\\Amy\\source\\repos\\Parallel_Lab1_2_Cache\\Parallel_Lab1_2_Cache\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E03C5049-AD58-4C77-95A2-C3DD9FD0E1CA}|Parallel_Lab1_2_Cache\\Parallel_Lab1_2_Cache.vcxproj|solutionrelative:Parallel_Lab1_2_Cache\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Amy\\source\\repos\\Parallel_Lab1_2_Cache\\Parallel_Lab1_2_Cache\\main.cpp",
+              "RelativeDocumentMoniker": "Parallel_Lab1_2_Cache\\main.cpp",
+              "ToolTip": "C:\\Users\\Amy\\source\\repos\\Parallel_Lab1_2_Cache\\Parallel_Lab1_2_Cache\\main.cpp",
+              "RelativeToolTip": "Parallel_Lab1_2_Cache\\main.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T07:36:59.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
