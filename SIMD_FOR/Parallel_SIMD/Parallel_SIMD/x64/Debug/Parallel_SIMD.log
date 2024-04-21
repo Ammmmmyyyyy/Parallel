@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(41,25): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:         with
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:         [
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:             _Ty=uint32_t
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:         ]
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:         and
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:         [
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:             _Ty=float
+C:\Users\Amy\source\repos\Parallel_SIMD\Parallel_SIMD\main.cpp(47,36): warning C4244:         ]
+  Parallel_SIMD.vcxproj -> C:\Users\Amy\source\repos\Parallel_SIMD\x64\Debug\Parallel_SIMD.exe
