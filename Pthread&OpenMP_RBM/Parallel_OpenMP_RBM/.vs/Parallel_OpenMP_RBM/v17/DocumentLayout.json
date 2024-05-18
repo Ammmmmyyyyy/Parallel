@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amy\\source\\repos\\Parallel_OpenMP_RBM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7C1E4E-F484-4CDE-9FCD-95370572D293}|Parallel_OpenMP_RBM\\Parallel_OpenMP_RBM.vcxproj|C:\\Users\\Amy\\source\\repos\\Parallel_OpenMP_RBM\\Parallel_OpenMP_RBM\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD7C1E4E-F484-4CDE-9FCD-95370572D293}|Parallel_OpenMP_RBM\\Parallel_OpenMP_RBM.vcxproj|solutionrelative:Parallel_OpenMP_RBM\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Amy\\source\\repos\\Parallel_OpenMP_RBM\\Parallel_OpenMP_RBM\\main.cpp",
+              "RelativeDocumentMoniker": "Parallel_OpenMP_RBM\\main.cpp",
+              "ToolTip": "C:\\Users\\Amy\\source\\repos\\Parallel_OpenMP_RBM\\Parallel_OpenMP_RBM\\main.cpp",
+              "RelativeToolTip": "Parallel_OpenMP_RBM\\main.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T14:34:35.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
