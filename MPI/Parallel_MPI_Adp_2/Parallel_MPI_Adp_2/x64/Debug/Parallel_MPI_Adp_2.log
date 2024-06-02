@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Amy\source\repos\Parallel_MPI_Adp_2\Parallel_MPI_Adp_2\main.cpp(73,24): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_MPI_Adp_2\Parallel_MPI_Adp_2\main.cpp(73,47): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_MPI_Adp_2\Parallel_MPI_Adp_2\main.cpp(101,34): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_MPI_Adp_2\Parallel_MPI_Adp_2\main.cpp(175,27): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  Parallel_MPI_Adp_2.vcxproj -> C:\Users\Amy\source\repos\Parallel_MPI_Adp_2\x64\Debug\Parallel_MPI_Adp_2.exe

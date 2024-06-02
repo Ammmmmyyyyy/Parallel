@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amy\\source\\repos\\Parallel_MPI_Adp_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630037F7-7181-46CA-BF2C-5ED9AB71A552}|Parallel_MPI_Adp_2\\Parallel_MPI_Adp_2.vcxproj|C:\\Users\\Amy\\source\\repos\\Parallel_MPI_Adp_2\\Parallel_MPI_Adp_2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{630037F7-7181-46CA-BF2C-5ED9AB71A552}|Parallel_MPI_Adp_2\\Parallel_MPI_Adp_2.vcxproj|solutionrelative:Parallel_MPI_Adp_2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Amy\\source\\repos\\Parallel_MPI_Adp_2\\Parallel_MPI_Adp_2\\main.cpp",
+              "RelativeDocumentMoniker": "Parallel_MPI_Adp_2\\main.cpp",
+              "ToolTip": "C:\\Users\\Amy\\source\\repos\\Parallel_MPI_Adp_2\\Parallel_MPI_Adp_2\\main.cpp",
+              "RelativeToolTip": "Parallel_MPI_Adp_2\\main.cpp",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAMUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T14:00:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
