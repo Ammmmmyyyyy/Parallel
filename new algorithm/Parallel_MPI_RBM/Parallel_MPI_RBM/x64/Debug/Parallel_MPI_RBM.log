@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(30,35): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(30,35): warning C4267:         with
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(30,35): warning C4267:         [
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(30,35): warning C4267:             _Ty=uint32_t
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(30,35): warning C4267:         ]
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(33,43): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(33,43): warning C4267:         with
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(33,43): warning C4267:         [
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(33,43): warning C4267:             _Ty=uint32_t
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(33,43): warning C4267:         ]
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(75,23): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_MPI_RBM\Parallel_MPI_RBM\main.cpp(131,34): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  Parallel_MPI_RBM.vcxproj -> C:\Users\Amy\source\repos\Parallel_MPI_RBM\x64\Debug\Parallel_MPI_RBM.exe

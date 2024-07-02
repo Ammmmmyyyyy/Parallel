@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\Amy\Documents\WeChat Files\wxid_bns8l7a6w57252\FileStorage\File\2024-06\test\test\BX_LW_Pthread\BX_LW_Pthread\test.cpp(35,33): warning C4930: “std::lock_guard<std::mutex> lock(std::mutex)”: 未调用原型函数(是否是有意用变量定义的?)
+C:\Users\Amy\Documents\WeChat Files\wxid_bns8l7a6w57252\FileStorage\File\2024-06\test\test\BX_LW_Pthread\BX_LW_Pthread\test.cpp(67,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BX_LW_Pthread.vcxproj -> C:\Users\Amy\Documents\WeChat Files\wxid_bns8l7a6w57252\FileStorage\File\2024-06\test\test\BX_LW_Pthread\x64\Debug\BX_LW_Pthread.exe

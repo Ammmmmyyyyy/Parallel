@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\Amy\source\repos\Parallel_MPI_FOR\Parallel_MPI_FOR\main.cpp(51,25): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\Amy\source\repos\Parallel_MPI_FOR\Parallel_MPI_FOR\main.cpp(101,27): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,82): warning C4244: “初始化”: 从“unsigned int”转换到“_Objty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,82): warning C4244:             _Objty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,82): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,82):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\Amy\source\repos\Parallel_MPI_FOR\Parallel_MPI_FOR\main.cpp(69,38):
+  	查看对正在编译的函数 模板 实例化“std::vector<float,std::allocator<float>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Ty=uint32_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<uint32_t>>>,
+              _Alloc=std::allocator<float>
+          ]
+  		C:\Users\Amy\source\repos\Parallel_MPI_FOR\Parallel_MPI_FOR\main.cpp(69,38):
+  		请参阅 "main" 中对 "std::vector<float,std::allocator<float>>::vector" 的第一个引用
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(635,13):
+  	查看对正在编译的函数 模板 实例化“void std::vector<float,std::allocator<float>>::_Construct_n<unsigned int*,unsigned int*>(const unsigned __int64,unsigned int *&&,unsigned int *&&)”的引用
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(2082,36):
+  	查看对正在编译的函数 模板 实例化“float *std::_Uninitialized_copy<_Ty,_Ty,std::allocator<float>>(_InIt,_Se,float *,_Alloc &)”的引用
+          with
+          [
+              _Ty=unsigned int *,
+              _InIt=unsigned int *,
+              _Se=unsigned int *,
+              _Alloc=std::allocator<float>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(1859,17):
+  	查看对正在编译的函数 模板 实例化“void std::_Uninitialized_backout_al<std::allocator<float>>::_Emplace_back<unsigned int&>(unsigned int &)”的引用
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(1805,35):
+  	查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &)”的引用
+          with
+          [
+              _Alloc=std::allocator<float>,
+              _Ty=float,
+              _Objty=float
+          ]
+  
+  Parallel_MPI_FOR.vcxproj -> C:\Users\Amy\source\repos\Parallel_MPI_FOR\x64\Debug\Parallel_MPI_FOR.exe

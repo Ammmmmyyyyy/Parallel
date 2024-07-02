@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amy\\source\\repos\\Parallel_GPU_FOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3FD3BB-0029-4894-9A87-33FC37A81ECB}|Parallel_GPU_FOR\\Parallel_GPU_FOR.vcxproj|C:\\Users\\Amy\\source\\repos\\Parallel_GPU_FOR\\Parallel_GPU_FOR\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A3FD3BB-0029-4894-9A87-33FC37A81ECB}|Parallel_GPU_FOR\\Parallel_GPU_FOR.vcxproj|solutionrelative:Parallel_GPU_FOR\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\Amy\\source\\repos\\Parallel_GPU_FOR\\Parallel_GPU_FOR\\kernel.cu",
+              "RelativeDocumentMoniker": "Parallel_GPU_FOR\\kernel.cu",
+              "ToolTip": "C:\\Users\\Amy\\source\\repos\\Parallel_GPU_FOR\\Parallel_GPU_FOR\\kernel.cu",
+              "RelativeToolTip": "Parallel_GPU_FOR\\kernel.cu",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-27T06:09:59.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

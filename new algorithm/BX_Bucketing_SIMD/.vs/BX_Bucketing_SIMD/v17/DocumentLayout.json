@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amy\\Documents\\WeChat Files\\wxid_bns8l7a6w57252\\FileStorage\\File\\2024-06\\test\\test\\BX_Bucketing_SIMD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C9BFB4-9387-495B-97F3-42B02E14B569}|BX_Bucketing_SIMD\\BX_Bucketing_SIMD.vcxproj|C:\\Users\\Amy\\Documents\\WeChat Files\\wxid_bns8l7a6w57252\\FileStorage\\File\\2024-06\\test\\test\\BX_Bucketing_SIMD\\BX_Bucketing_SIMD\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7C9BFB4-9387-495B-97F3-42B02E14B569}|BX_Bucketing_SIMD\\BX_Bucketing_SIMD.vcxproj|solutionrelative:BX_Bucketing_SIMD\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\Amy\\Documents\\WeChat Files\\wxid_bns8l7a6w57252\\FileStorage\\File\\2024-06\\test\\test\\BX_Bucketing_SIMD\\BX_Bucketing_SIMD\\test.cpp",
+              "RelativeDocumentMoniker": "BX_Bucketing_SIMD\\test.cpp",
+              "ToolTip": "C:\\Users\\Amy\\Documents\\WeChat Files\\wxid_bns8l7a6w57252\\FileStorage\\File\\2024-06\\test\\test\\BX_Bucketing_SIMD\\BX_Bucketing_SIMD\\test.cpp",
+              "RelativeToolTip": "BX_Bucketing_SIMD\\test.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAcwH4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T09:27:49.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
